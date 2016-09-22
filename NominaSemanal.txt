@@ -1,0 +1,144 @@
+Nomina de los empleados correspondiente a la semana 42
+
+ Nombre Empleado: Carlos contreras ruiz
+ sueldo Semanal: 5000
+ Numero de retardos: 2
+ Numero Faltas: 0
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 5000
+
+
+
+ Nombre Empleado: Jesus Contreras
+ sueldo Semanal: 10000
+ Numero de retardos: 0
+ Numero Faltas: 0
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 11000
+
+
+
+ Nombre Empleado: Carlos Cabrera 
+ sueldo Semanal: 2500
+ Numero de retardos: 6
+ Numero Faltas: 2
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 1785.71
+
+
+
+ Nombre Empleado: Jesus Alvarado Ruiz
+ sueldo Semanal: 1000
+ Numero de retardos: 4
+ Numero Faltas: 3
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 571.429
+
+
+
+ Nombre Empleado: carlos Martinez
+ sueldo Semanal: 5000
+ Numero de retardos: 2
+ Numero Faltas: 0
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 5000
+
+
+
+ Nombre Empleado: Esteban Arroyo
+ sueldo Semanal: 10000
+ Numero de retardos: 3
+ Numero Faltas: 4
+ Estatus del Trabajador:  Inactivo
+ Pago Semanal: 0
+
+
+
+ Nombre Empleado: Adriana Arroyo
+ sueldo Semanal: 5000
+ Numero de retardos: 0
+ Numero Faltas: 4
+ Estatus del Trabajador:  Inactivo
+ Pago Semanal: 0
+
+
+
+ Nombre Empleado: Diana hernandez
+ sueldo Semanal: 18000
+ Numero de retardos: 1
+ Numero Faltas: 0
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 18000
+
+
+
+ Nombre Empleado: Patricia Hernandez
+ sueldo Semanal: 50003
+ Numero de retardos: 2
+ Numero Faltas: 0
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 50003
+
+
+
+ Nombre Empleado: Cinthya Ivonne Garcia
+ sueldo Semanal: 1800
+ Numero de retardos: 0
+ Numero Faltas: 0
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 1980
+
+
+
+ Nombre Empleado: Luis Zamora
+ sueldo Semanal: 2000
+ Numero de retardos: 2
+ Numero Faltas: 2
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 1428.57
+
+
+
+ Nombre Empleado: Martha Ruiz Rivera
+ sueldo Semanal: 9000
+ Numero de retardos: 1
+ Numero Faltas: 0
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 9000
+
+
+
+ Nombre Empleado: Arturo Contreras
+ sueldo Semanal: 5000
+ Numero de retardos: 2
+ Numero Faltas: 0
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 5000
+
+
+
+ Nombre Empleado: Abigail Garcia Alvarez
+ sueldo Semanal: 1000
+ Numero de retardos: 0
+ Numero Faltas: 0
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 1100
+
+
+
+ Nombre Empleado: Andres Hernandez Vargas
+ sueldo Semanal: 2000
+ Numero de retardos: 0
+ Numero Faltas: 0
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 2200
+
+
+
+ Nombre Empleado: 
+ sueldo Semanal: 0
+ Numero de retardos: 0
+ Numero Faltas: 0
+ Estatus del Trabajador:  Activo
+ Pago Semanal: 0
+
